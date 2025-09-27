@@ -164,8 +164,9 @@ body div h1 {
     transform: none; box-shadow: 0 12px 30px rgba(0,0,0,0.12);
 }
 .brandname:hover {
-     transform: none; background: #222;
-     color: #ffffff;
+    transform: scale(1.04); background: #222;
+    background-color: #333333;
+    color: #ffffff;
 }
 
 body {
